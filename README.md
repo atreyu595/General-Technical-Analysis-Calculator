@@ -29,6 +29,6 @@ There are currently 6 Algorithmic Trading techniques and methods one can utilize
 
   Average Volatility Indicator: Another Volatility-based indicator, used to visualize fluctuations in stock prices.
 
-Currently, it's still in testing stages however still functional!
+Currently updating with new strategies!
 
 NOTE: As previously mentioned, I'm not a financial nor equity advisor, just an amateur :) Use the program to your discretion.
