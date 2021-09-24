@@ -9,6 +9,7 @@ The following program was developed to allow amatuer investors/traders like me t
 positions. The program allows you to visualize your stock's performance in any particular time frame, furthermore
 it also allows investors/traders to visualize their stock's current trajectory, determining buying or selling
 opportunities.
+
 Upon entering a time frame and ticker symbol, the investor/trader will be presented with current stock data in-line
 with the designated time frame. It will also show trading volumes during a particular time frame.
 
@@ -42,4 +43,5 @@ Some new strategies have been included!
   
   Ichimoku Cloud Strategy: Essentially a full-blown trading system. Uses Trend and Momentum-based indicators that determine
                            potential reversals and it's strength as well as support and resistance levels.  
+
 NOTE: As previously mentioned, I'm not a financial nor equity advisor, just an amateur :) Use the program to your discretion.
