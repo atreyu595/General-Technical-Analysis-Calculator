@@ -29,6 +29,17 @@ There are currently 6 Algorithmic Trading techniques and methods one can utilize
 
   Average Volatility Indicator: Another Volatility-based indicator, used to visualize fluctuations in stock prices.
 
-Currently updating with new strategies!
+****UPDATE*******
+Some new strategies have been included!
 
+  RSI-Bollinger Band Strategy: Combines Momentum and Volatility-Based Indicators into one strategy.
+  
+  Aroon Indicators: Identifies trend-changes in the market.
+  
+  Stochastic Oscillator: Another momentum-based indicator, best used for choppy and volatile markets.
+  
+  Moving Average-Stochastic Oscillator Strategy: Utilizes momentum and trend-based indicators.
+  
+  Ichimoku Cloud Strategy: Essentially a full-blown trading system. Uses Trend and Momentum-based indicators that determine
+                           potential reversals and it's strength as well as support and resistance levels.  
 NOTE: As previously mentioned, I'm not a financial nor equity advisor, just an amateur :) Use the program to your discretion.
